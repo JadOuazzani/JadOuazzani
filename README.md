@@ -9,7 +9,6 @@ I'm interested in systems, algorithms, and building tools that are actually usef
 - 🥈 **2nd place, BSA Hackathon**: privacy-preserving petition system with zero-knowledge proofs on Mina — [BSA_Hackathon](https://github.com/Portgas37/BSA_Hackathon)
 
 ### Projects
-- [**docgen**](https://github.com/JadOuazzani/docgen) — generates documentation for any GitHub repository with the Claude API
 - **Multicycle RISC-V CPU** in Verilog
 - **Machine learning models from scratch** in NumPy — [ml_milestone_1](https://github.com/RiadPPOO/ml_milestone_1)
 
