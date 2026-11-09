@@ -1,16 +1,5 @@
-# Hi, I'm Jad
+Hi, I'm Jad, a computer science student at EPFL, currently on exchange at the University of Edinburgh.
 
-Computer Science student at **EPFL** (BSc, continuing to an MSc in 2027), currently on an exchange year at the **University of Edinburgh**.
+I mostly work in C, Java, Scala and Python, and I'm currently looking for a software engineering internship for summer 2027.
 
-I'm interested in systems, algorithms, and building tools that are actually useful.
-
-### Highlights
-- 🥇 **1st place, HackTheBurgh XIII** (Viridien challenge): extracting rock-layer intervals from scanned geological well logs — [data-underneath](https://github.com/OzzyKr/data-underneath)
-- 🥈 **2nd place, BSA Hackathon**: privacy-preserving petition system with zero-knowledge proofs on Mina — [BSA_Hackathon](https://github.com/Portgas37/BSA_Hackathon)
-
-### Projects
-- [**ReCHor**](https://github.com/JadOuazzani/ReChor) — Swiss public-transport journey planner in Java (Pareto-optimal search with the Connection Scan Algorithm, JavaFX interface)
-- **Multicycle RISC-V CPU** in Verilog
-- **Machine learning models from scratch** in NumPy — [ml_milestone_1](https://github.com/RiadPPOO/ml_milestone_1)
-
-📫 [LinkedIn](https://www.linkedin.com/in/jad-ouazzani-441444314) · jad.chahedouazzani@epfl.ch
+[LinkedIn](https://www.linkedin.com/in/jad-ouazzani-441444314) · jad.chahedouazzani@epfl.ch
